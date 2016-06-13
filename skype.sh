@@ -26,7 +26,7 @@ function hackingtools {
 
 echo -e "
 \033[31m#######################################################\033[m
- ____        
+ ____                    Created By Alpha Elite-Hacker
 | __ ) _   _ 
 |  _ \| | | | www.elite-hacking.blogspot.com
 | |_) | |_| | www.youtube.com/channel/UCGPt6EfllXSNAJOFj8wrL9w
